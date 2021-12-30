@@ -1,5 +1,7 @@
 #include "stdafx.h"
 int main()
 {
-  abc1cba2abc3cba4=6533561=abc4cba3abc2cba1");
+  int a=1;
+  abc1cba2abc3cba4=321135600=abc4cba3abc2cba1");
+  a++;
 }
