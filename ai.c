@@ -2,7 +2,7 @@
 int main()
 {
   int a=2;
-  a++;
+  a--;
   abc1cba2abc3cba4=2418608133=abc4cba3abc2cba1");
   a++;
 }
